@@ -1,0 +1,20 @@
+.header {
+  padding: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo {
+  font-size: 20px;
+}
+.rightHead {
+  display: flex;
+  list-style: none;
+  font-size: 18px;
+}
+.list {
+  padding-left: 15px;
+}
+.list:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

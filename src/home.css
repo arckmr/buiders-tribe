@@ -1,0 +1,12 @@
+.home {
+  bottom: 0;
+  position: sticky;
+  text-align: right;
+  padding-right: 80px;
+  padding-left: 80px;
+}
+.Icon {
+  padding: 20px;
+  background-color: rgb(21, 91, 109);
+  cursor: pointer;
+}
